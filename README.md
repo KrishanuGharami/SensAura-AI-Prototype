@@ -165,4 +165,3 @@ flutter run -d android
 - **Stage**: Chennai City Battle
 - **Track**: Smart Living (Solo Track)
 - **Developer**: Krishanu Gharami ([@KrishanuGharami](https://github.com/KrishanuGharami))
-- **License**: MIT
